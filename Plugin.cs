@@ -6,7 +6,7 @@ using UnityEngine;
 namespace Smg_Goes_Brrrr {
     [UsedImplicitly]
     public class Plugin : BaseGameMod {
-        protected override     string ModName => nameof(Plugin);
+        protected override     string ModName => "SMG-Goes-Brrrr";
         public static readonly GUID   SMG      = GUID.Parse("96048d612ab1ea246b50745a12b9b05e");
         private const          string NEW_NAME = "It Goes Brrrrrrrrrr";
         private const          string NEW_DESC = "Brrrrrrrrrrrrrrrrrrrrrrrr";
