@@ -1,4 +1,7 @@
 {
     "LoadGroup": 0,
-    "Version": "1.0"
+    "Version": "1.0",
+    "UniqueModId": "SMG-Goes-Brrrr",
+    "Title": "SMG Goes Brrrr",
+    "MultiplayerMode": 2
 }
