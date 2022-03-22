@@ -16,7 +16,7 @@ namespace Smg_Goes_Brrrr {
                 Debug.Log("Error: Cannot find SMG item.");
                 return;
             }
-            ;
+
             smg.NameLocalization        = new LocalizedString(".", NEW_NAME, ".");
             smg.DescriptionLocalization = new LocalizedString(".", NEW_DESC, ".");
             LocalizationManager.Localize(smg);
